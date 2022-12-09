@@ -1,6 +1,6 @@
 <body>
   <h1 align="center"> Suchii </h1>
-  <p align="center"> Currently working on Lowfi Hub, which is a long-term project of mine written in Lua 5.1 </p>
+  <p align="center"> Currently working on Lowfi Hub, which is a long-term project of mine. </p>
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Slvwt&show_icons=true&theme=github_dark&hide_border=true">
